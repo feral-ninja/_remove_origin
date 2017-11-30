@@ -1,0 +1,19 @@
+\\z97\ ~ \C:\Users\test\Documents\GitHub\_remove_origin\ { 0000_remove_origin.txt }
+
+
+ [9:53 PM 30/11/2017] #!~
+
+
+The application called "GitHub Desktop" insists on having the "FIRST-Repro-EVER-Created" (NAMED origin). ~ Never liked THAT name, ... But various tutorial implied that,  THIS is the way must be.
+
+NOW() GitHubdesktop will NOT let that repo GO.
+
+Somehow,  that first repos is "The MASTER" of everything github on the local machine.
+
+TEST - The "Merge-ing" features ~ (Along with the DELETE features of github ?).
+
+
+ [9:56 PM 30/11/2017] #!~
+
+
+
