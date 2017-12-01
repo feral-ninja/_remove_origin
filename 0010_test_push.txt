@@ -1,0 +1,44 @@
+
+\\z97\ ~ \C:\Users\test\Documents\GitHub\origin\ { test_push.txt } - [5:49 PM 30/11/2017] #!~
+
+MOVE THIS FILE FROM ~ (About to be DELETED-REPO-NAMED :: "origin"
+
+
+ [GitHub seems to really object to me doing ANYTHING like that on the local file system] #!~
+
+ [10:11 PM 30/11/2017] #!~
+
+
+OK ~ The github application has the option to REMOVE the repo-NAMED "origin" ~ (DONE!).
+
+It continues to SHOW-ME, ... "origin" as a HEADER option ~ Closed the application called "GitHub-Desktop". ~ IT should be GONE, when I re-open it.
+
+ [10:15 PM 30/11/2017] #!~
+
+TIME-NOW () 
+
+ [2:47 PM 1/12/2017] #!~
+
+Have RE-Install Github on the local-machine \\z97.
+
+Got THAT logged into the Internet version of github.
+
+TWO-NEW-FILEs TO PUSH :: { THIS one should already be there } Something is NOT working ?
+
+THIS-FILE 
+
+	0010_test_push.txt
+
+	0011_DELETE_Account_gdanson.png
+
+ [2:49 PM 1/12/2017] #!~
+
+
+****************************************
+
+
+
+
+
+
+
